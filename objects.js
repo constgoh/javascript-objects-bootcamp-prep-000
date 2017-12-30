@@ -1,1 +1,2 @@
-object.assign(artist, song titles)
+var playlist = new Object({keys: '0'});
+
